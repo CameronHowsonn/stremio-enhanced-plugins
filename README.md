@@ -36,7 +36,7 @@ The files are in folders to keep the repo tidy, but **Stremio Enhanced only look
 Download this repo as a ZIP (**Code → Download ZIP**) and unzip it, or clone it:
 
 ```bash
-git clone <this repo's URL>
+git clone https://github.com/CameronHowsonn/stremio-enhanced-plugins.git
 ```
 
 ### 2. Open Stremio Enhanced's plugins folder
