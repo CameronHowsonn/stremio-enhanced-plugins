@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "idleMinutes": "90",
+  "onTimeout": "home",
+  "showCountdown": true,
+  "cornerTimer": "always",
+  "ignoreInput": true
+}
