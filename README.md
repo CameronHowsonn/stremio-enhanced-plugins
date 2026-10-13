@@ -77,6 +77,8 @@ That's it. Both plugins start working straight away with sensible defaults.
 
 ## Sleep Timer
 
+<img width="341" height="623" alt="image" src="https://github.com/user-attachments/assets/aad999ff-148b-4c54-aaf2-49e34a1bad26" />
+
 Pauses playback after a period with no activity, asks whether you're still watching, and, if nobody answers, leaves the player. It's built for falling asleep to a show.
 
 *Based on [stremio-sleep-timer](https://github.com/dotcme/stremio-sleep-timer/) by [dotcme](https://github.com/dotcme), modified and extended. See [Credits](#credits).*
@@ -113,6 +115,8 @@ Everything is also available under **Settings → Enhanced → Plugins → Sleep
 ---
 
 ## Watch Stats
+
+<img width="1286" height="769" alt="image" src="https://github.com/user-attachments/assets/a06b8b24-5181-4880-a3cd-74e2838ef6f0" />
 
 A stats page for everything you've watched.
 
